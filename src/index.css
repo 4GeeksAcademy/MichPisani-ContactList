@@ -1,0 +1,21 @@
+body{
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 10vh;
+}
+ul {
+    list-style-type: none;
+
+}
+ul li{
+    margin-bottom: 2vh;
+}
+img{
+    height:10em;
+    margin-right: 5vw;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%
+}
